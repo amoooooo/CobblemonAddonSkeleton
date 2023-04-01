@@ -10,8 +10,8 @@ architectury {
 
 loom {
     forge {
-        mixinConfig("mixins.cobblemonextras-forge.json")
-        mixinConfig("mixins.cobblemonextras-common.json")
+        mixinConfig("mixins.cobblemonaddonskeleton-forge.json")
+        mixinConfig("mixins.cobblemonaddonskeleton-common.json")
     }
 }
 

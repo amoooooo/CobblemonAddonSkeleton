@@ -1,7 +1,6 @@
 modLoader="kotlinforforge" #mandatory
 loaderVersion="[3,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
 license="MPL2.0"
-issueTrackerURL="https://github.com/Xwaffle1/CobblemonExtras/issues"
 
 [[mods]] #mandatory
 modId="cobblemonaddonskeleton" #mandatory
